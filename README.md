@@ -14,14 +14,6 @@ I started my path of web development shortly after realizing that nursing wasn't
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VueJs Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel Logo" width="50" height="50"/>
 
 ---
-
-## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ptmccrary&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptmccrary&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!---
 ptmccrary/ptmccrary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
