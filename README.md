@@ -3,9 +3,9 @@
 ---
 ![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fparkerfsjs) ![GitHub followers](https://img.shields.io/github/followers/ptmccrary?label=GitHub&style=social)
 
-I'm a full-stack web developer for Journey Group Inc. Currently I specialize in Nuxt.js, Vue.js, and Drupal 9 websites.
+I'm a full-stack web developer for Journey Group Inc. Currently I specialize in Nuxt.js, and Drupal websites with a little Laravel API experience sprinkled in.
 
-I started my path of web development shortly after realizing that nursing wasn't what I wanted to become, in my first few years of college. I fell in love with bringing things to life on the web as well as making things happen behind the curtains, so instinctly I switched my major to computer science and received an associate degree!
+I started my path of web development shortly after realizing that nursing wasn't what I wanted to do, in my first few years of college. I fell in love with bringing things to life on the web as well as making things happen behind the curtains, so instinctly I switched my major to computer science and received an associate degree. Luckily, right after college I landed an amazing intership with Journey Group where I learned a boat load and landed a full-time position with them shortly after.
 
 ---
 
